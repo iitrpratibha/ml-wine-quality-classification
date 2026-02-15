@@ -182,9 +182,4 @@ This project is created for academic purposes as part of Machine Learning Assign
 
 ---
 
-**Assignment Submission Date**: 15-Feb-2026
-**Total Marks**: 15
-
----
-
 *Generated with attention to academic integrity and best practices in machine learning.*
