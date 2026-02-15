@@ -1,0 +1,323 @@
+═══════════════════════════════════════════════════════════════════
+          STEP-BY-STEP PDF CREATION INSTRUCTIONS
+═══════════════════════════════════════════════════════════════════
+
+ESTIMATED TIME: 15-20 minutes
+
+═══════════════════════════════════════════════════════════════════
+STEP 1: OPEN THE CONTENT FILE
+═══════════════════════════════════════════════════════════════════
+
+1. Open the file: READY_FOR_PDF.txt
+   Location: /home/arv/project/mtech/ml/ml-assignment-2/
+
+2. This file contains ALL the content you need
+   - Already formatted
+   - All sections included
+   - Ready to copy
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 2: CREATE NEW DOCUMENT
+═══════════════════════════════════════════════════════════════════
+
+OPTION A: Using Microsoft Word
+   1. Open Microsoft Word
+   2. Create new blank document
+   3. Go to: File → Page Setup
+   4. Set margins: Top/Bottom: 1 inch, Left/Right: 1 inch
+   5. Font: Arial or Times New Roman, Size: 11 or 12
+
+OPTION B: Using Google Docs
+   1. Go to: https://docs.google.com
+   2. Click: Blank document
+   3. File → Page setup
+   4. Set margins: 1 inch all around
+   5. Font: Arial or Times New Roman, Size: 11
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 3: COPY AND PASTE CONTENT
+═══════════════════════════════════════════════════════════════════
+
+1. Select ALL content from READY_FOR_PDF.txt
+   - Press: Ctrl+A (or Cmd+A on Mac)
+   - Press: Ctrl+C (or Cmd+C on Mac)
+
+2. Paste into your Word/Google Docs document
+   - Press: Ctrl+V (or Cmd+V on Mac)
+
+3. Initial formatting:
+   - The content should paste as plain text
+   - Don't worry about formatting yet
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 4: FILL IN YOUR PERSONAL DETAILS
+═══════════════════════════════════════════════════════════════════
+
+Find and replace these placeholders with your actual information:
+
+1. [YOUR FULL NAME HERE]
+   Replace with: Your actual full name
+   Example: Dr. Pratibha Verma
+
+2. [YOUR STUDENT ID HERE]
+   Replace with: Your actual student ID
+   Example: 2024MTXXX
+
+How to find and replace:
+   - Press: Ctrl+F (or Cmd+F on Mac)
+   - Type: [YOUR FULL NAME HERE]
+   - Click Replace All
+   - Enter your name
+   - Repeat for [YOUR STUDENT ID HERE]
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 5: INSERT BITS LAB SCREENSHOT
+═══════════════════════════════════════════════════════════════════
+
+1. Find this text in your document:
+   "BITS VIRTUAL LAB SCREENSHOT"
+   "[INSERT YOUR BITS LAB SCREENSHOT HERE]"
+
+2. Click below "[INSERT YOUR BITS LAB SCREENSHOT HERE]"
+
+3. Insert your screenshot:
+   Word: Insert → Pictures → This Device → Select your screenshot
+   Google Docs: Insert → Image → Upload from computer
+
+4. Resize the screenshot:
+   - Click on the image
+   - Drag corners to resize (keep aspect ratio)
+   - Make it fit nicely on the page
+   - Recommended: Not too large, but readable
+
+5. Delete the placeholder text: "[INSERT YOUR BITS LAB SCREENSHOT HERE]"
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 6: FORMAT THE DOCUMENT
+═══════════════════════════════════════════════════════════════════
+
+COVER PAGE (Page 1):
+   1. Center align the title section
+   2. Make "BITS PILANI" bold, size 16
+   3. Make "MACHINE LEARNING" bold, size 14
+   4. Make "ASSIGNMENT - 2" bold, size 14
+   5. Student details: Left align, Regular text
+   6. Add page break after cover page
+      Word: Insert → Page Break
+      Google Docs: Insert → Break → Page break
+
+SUBMISSION LINKS (Page 2):
+   1. Make section headers bold (SUBMISSION LINKS, etc.)
+   2. Make URLs clickable:
+      - Select the URL
+      - Right-click → Hyperlink
+      - Paste the same URL in the link field
+   3. Make checkmarks (✓) visible
+   4. Add page break after this section
+
+BITS LAB SCREENSHOT (Page 3):
+   1. Make "BITS VIRTUAL LAB SCREENSHOT" bold, centered
+   2. Center the screenshot
+   3. Add caption below: "Figure 1: BITS Lab Execution"
+   4. Add page break after screenshot
+
+MAIN CONTENT (Pages 4+):
+   1. Make main headers bold and larger:
+      - PROBLEM STATEMENT (Bold, Size 14)
+      - DATASET DESCRIPTION (Bold, Size 14)
+      - MODELS USED (Bold, Size 14)
+      etc.
+
+   2. Make sub-headers bold:
+      - Dataset Information
+      - Features Description
+      - Key Insights
+      etc.
+
+   3. Format tables:
+      - Keep table borders visible
+      - Center-align table headers
+      - Make header row bold
+
+   4. Format lists:
+      - Use bullet points for lists
+      - Indent properly
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 7: VERIFY LINKS ARE WORKING
+═══════════════════════════════════════════════════════════════════
+
+Test both URLs in your document:
+
+1. GitHub URL:
+   https://github.com/iitrpratibha/ml-wine-quality-classification
+
+2. Streamlit App URL:
+   https://ml-wine-quality-classification-rddwem3ymumeq73kuysrpc.streamlit.app/
+
+How to test:
+   - Ctrl+Click (or Cmd+Click) on each URL
+   - Should open in browser
+   - Verify pages load correctly
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 8: ADD PAGE NUMBERS
+═══════════════════════════════════════════════════════════════════
+
+Word:
+   1. Insert → Page Number
+   2. Choose: Bottom of page, centered
+   3. Format: 1, 2, 3...
+
+Google Docs:
+   1. Insert → Page numbers
+   2. Choose position: Bottom, centered
+   3. Click Apply
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 9: FINAL REVIEW
+═══════════════════════════════════════════════════════════════════
+
+Checklist - Go through each item:
+
+□ Cover page has your name and ID (no placeholders)
+□ Both URLs are present and clickable
+□ GitHub URL works
+□ Streamlit URL works
+□ BITS Lab screenshot is inserted and visible
+□ Screenshot is clear and readable
+□ All section headers are formatted (bold, larger)
+□ Tables are properly formatted
+□ Page numbers are added
+□ No spelling errors
+□ No placeholder text like [YOUR NAME] remains
+□ Document looks professional
+□ All pages are included
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 10: EXPORT AS PDF
+═══════════════════════════════════════════════════════════════════
+
+Microsoft Word:
+   1. File → Save As
+   2. Choose location (Desktop or Documents)
+   3. File name: ML_Assignment2_[YourName]_[YourID]
+      Example: ML_Assignment2_PratibhaVerma_2024MT001
+   4. Save as type: PDF (*.pdf)
+   5. Click Save
+
+Google Docs:
+   1. File → Download
+   2. Choose: PDF Document (.pdf)
+   3. File will download to your Downloads folder
+   4. Rename file to: ML_Assignment2_[YourName]_[YourID].pdf
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 11: VERIFY PDF
+═══════════════════════════════════════════════════════════════════
+
+1. Open the PDF file you just created
+
+2. Check everything:
+   □ PDF opens correctly
+   □ All pages are present (should be 8-12 pages)
+   □ Cover page looks good
+   □ URLs are clickable in PDF
+   □ Screenshot is visible
+   □ No formatting issues
+   □ File size is reasonable (< 10 MB)
+
+3. Test clicking the URLs in the PDF:
+   □ GitHub link opens repository
+   □ Streamlit link opens the app
+
+
+═══════════════════════════════════════════════════════════════════
+STEP 12: SUBMIT ON TAXILA
+═══════════════════════════════════════════════════════════════════
+
+1. Go to Taxila LMS
+2. Login with your credentials
+3. Navigate to: Machine Learning → Assignment 2
+4. Click: Submit Assignment
+5. Upload your PDF file
+6. IMPORTANT: Click "SUBMIT" (NOT "Save Draft")
+7. Wait for confirmation message
+8. Take screenshot of confirmation page
+9. Done! 🎉
+
+
+═══════════════════════════════════════════════════════════════════
+TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════════
+
+Issue: Tables don't look good after pasting
+Solution: Manually adjust column widths, or recreate table in Word
+
+Issue: URLs are not clickable
+Solution: Select URL, Right-click → Hyperlink → Paste URL
+
+Issue: Screenshot is too large
+Solution: Click image, drag corner to resize (keep shift pressed)
+
+Issue: File size > 10 MB
+Solution: Compress screenshot before inserting (use lower resolution)
+
+Issue: Formatting is messy
+Solution: Use "Clear Formatting" then re-apply formatting step by step
+
+
+═══════════════════════════════════════════════════════════════════
+QUICK REFERENCE
+═══════════════════════════════════════════════════════════════════
+
+Your URLs (copy these if needed):
+
+GitHub:
+https://github.com/iitrpratibha/ml-wine-quality-classification
+
+Streamlit:
+https://ml-wine-quality-classification-rddwem3ymumeq73kuysrpc.streamlit.app/
+
+File to use:
+READY_FOR_PDF.txt
+
+Final PDF name format:
+ML_Assignment2_[YourName]_[YourID].pdf
+
+
+═══════════════════════════════════════════════════════════════════
+TIME ESTIMATE
+═══════════════════════════════════════════════════════════════════
+
+Step 1-3:   Copy content                    2 min
+Step 4:     Fill in details                 2 min
+Step 5:     Insert screenshot               3 min
+Step 6:     Format document                 5 min
+Step 7-9:   Review and verify               3 min
+Step 10-11: Export and check PDF            2 min
+Step 12:    Submit on Taxila               3 min
+
+TOTAL:                                     20 min
+
+
+═══════════════════════════════════════════════════════════════════
+YOU'RE ALMOST DONE!
+═══════════════════════════════════════════════════════════════════
+
+Everything is ready. Just follow these steps and you'll have your
+PDF ready for submission in about 20 minutes!
+
+Good luck! 🎉
+
+═══════════════════════════════════════════════════════════════════
