@@ -166,7 +166,10 @@ streamlit run app.py
 
 ## Live Application
 
-🌐 **Streamlit App**: [Link will be added after deployment]
+🌐 **Streamlit App**: https://ml-wine-quality-classification-rddwem3ymumeq73kuysrpc.streamlit.app/
+
+✅ **Status**: Live and accessible
+📅 **Deployed**: February 15, 2026
 
 ## Author
 
